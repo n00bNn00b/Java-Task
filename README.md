@@ -1,12 +1,13 @@
 # JavaTask
 
-Java Problem: 
-(a+b)/2 + (b-c)/a - (a*b)
+- Java Problem: 
+- (a+b)/2 + (b-c)/a - (a*b)
+- 
+- Total 3 classes
+- addition function will do only addition task in a class
+- Subtraction will do only subtraction in same class
+- multiplication and divisions will do their own tasks in a different class.
 
-Total 3 classes
-addition function will do only addition task in a class
-Subtraction will do only subtraction in same class
-multiplication and divisions will do their own tasks in a different class.
 
 
 ## Getting started
